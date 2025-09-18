@@ -1,0 +1,12 @@
+langgraph
+langchain-core
+langchain
+langchain-openai
+langchain-pinecone
+openai
+pinecone-client
+python-dotenv
+uvicorn
+fastapi
+httpx
+pydantic
